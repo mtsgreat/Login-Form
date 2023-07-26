@@ -2,7 +2,7 @@
 Lane Page - Página de formulário
 
 
-Página desenvolvida com HTML, CSS e Javscript.
+Página desenvolvida com HTML, CSS e JavaScript.
 
 
 ![Desktop](print-desktop.png)
