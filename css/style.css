@@ -23,7 +23,7 @@
   .container-full .container-left {
     width: 50%;
     height: 100vh;
-    background-color: (--background);  
+    background-color: var(--background);  
 
 
     display: flex;
