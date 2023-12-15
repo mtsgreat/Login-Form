@@ -23,6 +23,7 @@
   .container-full .container-left {
     width: 50%;
     height: 100vh;
+    background-color: (--background)  
 
 
     display: flex;
@@ -34,7 +35,6 @@
   .container-full .container-right {
     width: 50%;
     height: 100vh;
-    background-color: brown;
   }
 
 
